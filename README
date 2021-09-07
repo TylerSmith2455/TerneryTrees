@@ -1,0 +1,15 @@
+Project Name: Ternary Tree
+Author: Tyler Smith
+Class: CS 315
+
+Purpose: This program takes in user input of however many numbers they decide when running it.
+	 The program then inserts each number individually into a ternary tree.
+	 In the ternary tree, the numbers are stored from least to greatest.
+	 After the numbers are inserted, it then prints out the numbers from least to greatest.
+	 When printing, parenthesis are printed to show pareent and child nodes of the tree.
+
+How it Works: The program sorts and puts the numbers into a ternary tree. The tree is made of Nodes.
+              Each Node consists of two data values and three pointers to child Nodes.
+              When created each Node only has one value, but when inserting new numbers the Node will be filled.
+
+How to Compile: make run
