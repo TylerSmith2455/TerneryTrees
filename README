@@ -1,6 +1,5 @@
 Project Name: Ternary Tree
 Author: Tyler Smith
-Class: CS 315
 
 Purpose: This program takes in user input of however many numbers they decide when running it.
 	 The program then inserts each number individually into a ternary tree.
